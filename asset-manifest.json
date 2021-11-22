@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-image-finder/static/css/main.2ab3f545.chunk.css",
+    "main.js": "/react-image-finder/static/js/main.c225782e.chunk.js",
+    "main.js.map": "/react-image-finder/static/js/main.c225782e.chunk.js.map",
+    "runtime-main.js": "/react-image-finder/static/js/runtime-main.01d769fe.js",
+    "runtime-main.js.map": "/react-image-finder/static/js/runtime-main.01d769fe.js.map",
+    "static/css/2.ad5a195d.chunk.css": "/react-image-finder/static/css/2.ad5a195d.chunk.css",
+    "static/js/2.c05bbe82.chunk.js": "/react-image-finder/static/js/2.c05bbe82.chunk.js",
+    "static/js/2.c05bbe82.chunk.js.map": "/react-image-finder/static/js/2.c05bbe82.chunk.js.map",
+    "index.html": "/react-image-finder/index.html",
+    "static/css/2.ad5a195d.chunk.css.map": "/react-image-finder/static/css/2.ad5a195d.chunk.css.map",
+    "static/css/main.2ab3f545.chunk.css.map": "/react-image-finder/static/css/main.2ab3f545.chunk.css.map",
+    "static/js/2.c05bbe82.chunk.js.LICENSE.txt": "/react-image-finder/static/js/2.c05bbe82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01d769fe.js",
+    "static/css/2.ad5a195d.chunk.css",
+    "static/js/2.c05bbe82.chunk.js",
+    "static/css/main.2ab3f545.chunk.css",
+    "static/js/main.c225782e.chunk.js"
+  ]
+}
